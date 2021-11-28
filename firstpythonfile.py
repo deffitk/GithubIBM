@@ -1,1 +1,1 @@
-print("My modified First Python file");
+print("My modified First Python file in Theia.");
